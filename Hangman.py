@@ -142,3 +142,5 @@ main()
 
 
 hangman()
+
+#Developed by Andrew_Afful
